@@ -1,0 +1,12 @@
+ipeline {
+    agent any
+
+    stages {
+        stage('github') {
+            steps {
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/ayushmansingh2711/docker-repo'
+            }
+        }
+    }
+    
+}
