@@ -72,7 +72,8 @@ Thanks for downloading from TemplatesJungle.com !
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?ayushmansingh2711=YourUserName&color=blue)
+
+
 
 
 
